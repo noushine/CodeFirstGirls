@@ -50,8 +50,9 @@ background: #162252;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 250px;
+height: 580px;
 padding-top: 2cm;
+padding-bottom: 2cm;
 }
 
 #about_us {
@@ -60,8 +61,9 @@ background: #3D59AB;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 250px;
+height: 580px;
 padding-top: 2cm;
+padding-bottom: 2cm;
 }
 
 #gallery {
@@ -70,8 +72,9 @@ background: #4981CE;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 250px;
+height: 580px;
 padding-top: 2cm;
+padding-bottom: 2cm;
 }
 
 #contact_us {
