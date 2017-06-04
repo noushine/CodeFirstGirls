@@ -53,11 +53,6 @@ font-size: 20px;
 height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
-position: relative;
-  float: left;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 #about_us {
@@ -69,11 +64,6 @@ font-size: 20px;
 height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
-position: relative;
-  float: left;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 #gallery {
@@ -85,11 +75,6 @@ font-size: 20px;
 height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
-position: relative;
-  float: left;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 #contact_us {
@@ -101,11 +86,6 @@ font-size: 20px;
 height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
-position: relative;
-  float: left;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .important {
