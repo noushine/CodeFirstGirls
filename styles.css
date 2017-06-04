@@ -4,11 +4,15 @@ ul.nav li{
 }
 h1 {
 	font-weight: bold;
-	font-size: 47px;}
+	font-size: 47px;
+	text-align: center;
+	}
 p {
-	color: blue
+	color: blue;
+	text-align: center;
 }
 a {
 	color: white;
 	background: grey;
+	text-align: center;
 	}
