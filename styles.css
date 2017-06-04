@@ -50,9 +50,10 @@ background: #162252;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 580px;
+height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
+position: absolute; top: 50%; left: 50%;
 }
 
 #about_us {
@@ -61,7 +62,7 @@ background: #3D59AB;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 580px;
+height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
 }
@@ -72,7 +73,7 @@ background: #4981CE;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 580px;
+height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
 }
@@ -83,7 +84,7 @@ background: #7AA9DD;
 color: #ffffff;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
-height: 580px;
+height: 560px;
 padding-top: 2cm;
 padding-bottom: 2cm;
 }
