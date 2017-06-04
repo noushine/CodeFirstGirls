@@ -80,11 +80,13 @@ p {
  height: 250px;
 }
 
-.important{
+.important {
  color: #ffffff;
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
  font-size: 16px;
  font-weight: bold;
 }
 
-div { margin: 0; }
+#page_content { 
+	margin: 0;
+}
