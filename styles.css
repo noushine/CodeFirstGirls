@@ -1,7 +1,8 @@
-ul.nav li a {
+ul.nav li {
     display: inline-block;
     padding-right: 10px;
-    text-align: center;
+	}
+ul.nav li a {
 	color: white;
  	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
  	font-size: 20px;
@@ -24,8 +25,3 @@ p {
 	color: blue;
 	text-align: center;
 }
-a {
-	color: white;
-	background: grey;
-	text-align: center;
-	}
