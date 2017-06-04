@@ -51,6 +51,8 @@ p {
    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
    font-size: 16px;
    height: 250px;
+   padding-top: 2cm;
+}
 }
 
 #about_us {
@@ -60,6 +62,7 @@ p {
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
  font-size: 16px;
  height: 250px;
+ padding-top: 2cm;
 }
 
 #gallery {
@@ -69,6 +72,7 @@ p {
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
  font-size: 16px;
  height: 250px;
+ padding-top: 2cm;
 }
 
 #contact_us {
@@ -78,6 +82,7 @@ p {
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
  font-size: 16px;
  height: 250px;
+ padding-top: 2cm;
 }
 
 .important {
@@ -87,11 +92,7 @@ p {
  font-weight: bold;
 }
 
-#page_content { 
-	margin: 0;
-}
-
 #rooftop {
-	width: 100%
+	width: 125%
 	height: 100%;
 }
