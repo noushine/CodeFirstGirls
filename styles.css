@@ -29,67 +29,66 @@ ul.nav li a {
 h1 {
  color: #ffffff;
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 20px;
+ font-size: 30px;
 }
 
 h2 {
  color: #ffffff;
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 18px;
+ font-size: 30px;
 }
 
 p {
  color: #ffffff ;
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 14px;
+ font-size: 22px;
 }
 
 #home {
-   margin-bottom: none;
-   background: #162252;
-   color: #ffffff;
-   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
-   font-size: 16px;
-   height: 250px;
-   padding-top: 2cm;
-}
+margin-bottom: none;
+background: #162252;
+color: #ffffff;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
+height: 250px;
+padding-top: 2cm;
 }
 
 #about_us {
- margin-bottom: none;
- background: #3D59AB;
- color: #ffffff;
- font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 16px;
- height: 250px;
- padding-top: 2cm;
+margin-bottom: none;
+background: #3D59AB;
+color: #ffffff;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
+height: 250px;
+padding-top: 2cm;
 }
 
 #gallery {
- margin-bottom: none;
- background: #4981CE;
- color: #ffffff;
- font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 16px;
- height: 250px;
- padding-top: 2cm;
+margin-bottom: none;
+background: #4981CE;
+color: #ffffff;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
+height: 250px;
+padding-top: 2cm;
 }
 
 #contact_us {
- margin-bottom: none;
- background: #7AA9DD;
- color: #ffffff;
- font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 16px;
- height: 250px;
- padding-top: 2cm;
+margin-bottom: none;
+background: #7AA9DD;
+color: #ffffff;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
+height: 250px;
+padding-top: 2cm;
 }
 
 .important {
- color: #ffffff;
- font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 16px;
- font-weight: bold;
+color: #ffffff;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+font-size: 20px;
+font-weight: bold;
 }
 
 img {
