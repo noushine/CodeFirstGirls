@@ -93,6 +93,5 @@ p {
 }
 
 #rooftop {
-	width: 125%
-	height: 100%;
+	vertical-align: top
 }
