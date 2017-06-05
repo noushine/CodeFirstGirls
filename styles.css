@@ -106,7 +106,16 @@ img {
 	vertical-align: top
 }
 
-about-page.html {
+#club {
+	background: #404040;
+	color: #ffffff;
+}
+#brunch
+{
+	background: #404040;
+	color: #ffffff;
+	}
+#team {
 	background: #404040;
 	color: #ffffff;
 }
