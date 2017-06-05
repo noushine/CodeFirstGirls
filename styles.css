@@ -79,7 +79,7 @@ padding-bottom: 2cm;
 }
 
 #line_up {
-color: #696969;
+color: #404040;
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 20px;
 }
@@ -107,6 +107,6 @@ img {
 }
 
 about-page.html {
-	background: #696969;
+	background: #404040;
 	color: #ffffff;
 }
