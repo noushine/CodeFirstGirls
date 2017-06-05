@@ -77,6 +77,12 @@ padding-top: 2cm;
 padding-bottom: 2cm;
 }
 
+#line-up {
+color: #696969;
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
+}
+
 #contact_us {
 margin-bottom: none;
 background: #7AA9DD;
