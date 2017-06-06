@@ -4,23 +4,9 @@ body {
  padding​-​top​:​ ​70px​;​
 }
 
-ul.nav li {
-   display: inline-block;
-   padding-right: 10px;
-}
-
-ul.nav li a {
- color: white;
- font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
- font-size: 20px;
- text-decoration: none;
-}
-
-.nav {
- background: grey;
- text-align: center;
- height: 90px;
- line-height: 90px;
+nav {
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+font-size: 20px;
 }
 
 #welcome {
