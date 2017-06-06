@@ -114,6 +114,7 @@ img {
 	height: 100px;
 	padding-top: 2cm;
 	padding-bottom: 2cm;
+	padding-left: 200px; padding-right: 200px;
 }
 
 #brunch
@@ -125,6 +126,7 @@ img {
 	height: 100px;
 	padding-top: 2cm;
 	padding-bottom: 2cm;
+	padding-left: 200px; padding-right: 200px;
 	}
 
 #team {
@@ -135,4 +137,5 @@ img {
 	height: 100px;
 	padding-top: 2cm;
 	padding-bottom: 2cm;
+	padding-left: 200px; padding-right: 200px;
 }
