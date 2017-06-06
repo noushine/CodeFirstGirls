@@ -109,15 +109,30 @@ img {
 #club {
 	background: #404040;
 	color: #ffffff;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 20px;
+	height: 400px;
+	padding-top: 2cm;
+	padding-bottom: 2cm;
 }
 
 #brunch
 {
 	background: #404040;
 	color: #ffffff;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 20px;
+	height: 400px;
+	padding-top: 2cm;
+	padding-bottom: 2cm;
 	}
-	
+
 #team {
 	background: #404040;
 	color: #ffffff;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 20px;
+	height: 400px;
+	padding-top: 2cm;
+	padding-bottom: 2cm;
 }
