@@ -7,6 +7,11 @@ body {
 nav {
 font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 font-size: 18px;
+
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	background:grey;
 }
 
 #welcome {
@@ -29,6 +34,16 @@ h3 {
  color: #ffffff;
  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
  font-size: 100px;
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+
+h4 {
+ color: #ffffff;
+ font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+ font-size: 32px;
+ margin-top: 50px;
+ margin-bottom: 50px;
 }
 
 p {
@@ -105,9 +120,13 @@ img {
 	vertical-align: top
 }
 
-about-page {
+#thisisus {
 	background: #404040;
 	color: #ffffff;
 	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 	font-size: 20px;
+}
+.thumbnail {
+	background: rgba(256,256,256,.5);
+	height: 300px;
 }
