@@ -139,3 +139,13 @@ img {
 	padding-bottom: 2cm;
 	padding-left: 200px; padding-right: 200px;
 }
+#description {
+	background: #404040;
+	color: #ffffff;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	font-size: 20px;
+	height: 100px;
+	padding-top: 2cm;
+	padding-bottom: 2cm;
+	padding-left: 200px; padding-right: 200px;
+}
